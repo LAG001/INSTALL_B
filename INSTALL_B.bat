@@ -1,7 +1,7 @@
 @echo off
 Mode 52,16
 title LAG
-set Version=2.0
+set Version=1.0
 set DevBuild=No
 cd %tmp%
 
